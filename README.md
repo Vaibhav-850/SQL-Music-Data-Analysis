@@ -1,3 +1,3 @@
 # SQL-Music-Data-Analysis
 Analyze music streaming data using SQL to uncover trends in listener behavior, popular genres, and top artists. Includes creating and querying tables for user activity, playlists, and song metadata. Identify peak listening times and regional preferences to provide actionable insights for music platforms and artists.
-Utilize joins to combine datasets, such as user details with listening history and playlists with song information. Identify top genres, artists, and peak streaming hours while uncovering regional preferences and user behavior patterns for actionable insights.
+
